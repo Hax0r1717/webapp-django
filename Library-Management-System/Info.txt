@@ -1,0 +1,7 @@
+A Library Management System developed in Python(Django) by Ankit Kumar.
+Database used: MySQL
+Database name must be website & the password for the root user must be toor.
+Port by default is 3306.
+Host is localhost(127.0.0.1).
+As mentioned in the codes.
+Thank You.
